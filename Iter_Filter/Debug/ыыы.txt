@@ -1,0 +1,8 @@
+Iter algorithm finished. Image: 4x4 Time: 0.002
+Iter algorithm finished. Image: 8x8 Time: 0.002
+Iter algorithm finished. Image: 16x16 Time: 0.006
+Iter algorithm finished. Image: 32x32 Time: 0.024
+Iter algorithm finished. Image: 64x64 Time: 0.107
+Iter algorithm finished. Image: 128x128 Time: 0.835
+Iter algorithm finished. Image: 256x256 Time: 8.262
+Iter algorithm finished. Image: 512x512 Time: 301.868

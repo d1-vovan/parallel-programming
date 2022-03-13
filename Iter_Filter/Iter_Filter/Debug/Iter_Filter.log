@@ -1,0 +1,8 @@
+﻿  Iter_Filter.cpp
+C:\Users\User\source\repos\Iter_Filter\Iter_Filter\Iter_Filter.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Iter_Filter\Iter_Filter\Iter_Filter.cpp(80,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Iter_Filter\Iter_Filter\Iter_Filter.cpp(81,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Iter_Filter\Iter_Filter\Iter_Filter.cpp(120,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Iter_Filter\Iter_Filter\Iter_Filter.cpp(121,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Iter_Filter\Iter_Filter\Iter_Filter.cpp(165,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Iter_Filter.vcxproj -> C:\Users\User\source\repos\Iter_Filter\Debug\Iter_Filter.exe
