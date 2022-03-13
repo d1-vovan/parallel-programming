@@ -1,0 +1,8 @@
+﻿  OMP_Filter.cpp
+C:\Users\User\source\repos\OMP_Filter\OMP_Filter\OMP_Filter.cpp(72,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OMP_Filter\OMP_Filter\OMP_Filter.cpp(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OMP_Filter\OMP_Filter\OMP_Filter.cpp(99,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OMP_Filter\OMP_Filter\OMP_Filter.cpp(142,9): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "for".
+C:\Users\User\source\repos\OMP_Filter\OMP_Filter\OMP_Filter.cpp(143,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OMP_Filter\OMP_Filter\OMP_Filter.cpp(144,33): warning C4018: <: несоответствие типов со знаком и без знака
+  OMP_Filter.vcxproj -> C:\Users\User\source\repos\OMP_Filter\x64\Debug\OMP_Filter.exe
